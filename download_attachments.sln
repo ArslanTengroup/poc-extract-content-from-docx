@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "download_attachments", "download_attachments.csproj", "{3E86B530-A5F3-4411-8E61-6A3B385D48F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E86B530-A5F3-4411-8E61-6A3B385D48F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E86B530-A5F3-4411-8E61-6A3B385D48F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E86B530-A5F3-4411-8E61-6A3B385D48F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E86B530-A5F3-4411-8E61-6A3B385D48F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A144C5DE-6BBB-4BD3-94AE-CD9516459796}
+	EndGlobalSection
+EndGlobal
